@@ -1,5 +1,4 @@
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SJ%20Han&FontSize=60&desc=FE%20Developer&descSize=20)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SJ%20Han&FontSize=60&desc=FE%20Developer&descSize=20)
 <div align="center">
   <h1>🛠 Most Used 🛠</h1>
 </div>
@@ -31,6 +30,15 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 </div>
 <hr>
+<div align="center">
+  
+[![SJ Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=stat1202&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stat1202&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+<div align="center">
+</div>
+
 <!--
 **stat1202/stat1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
