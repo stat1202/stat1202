@@ -1,4 +1,4 @@
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SJ%20Han-nl-FE%20Developer&fontSize=70)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SJ%20Han&FontSize=60&desc=FE%20Developer&descSize=20)
 
 <div align="center">
   <h1>🛠 Most Used 🛠</h1>
