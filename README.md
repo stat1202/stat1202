@@ -10,22 +10,21 @@
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NextJs-000?style=flat&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/supabase-3FCF8E?style=flat&logo=supabase&logoColor=white"/>
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white"/>
 </div>
 
-<div align="center">
-  <h1>🏃 Learning! 🏃</h1>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
-</div>
 <div align="center">
   <h1>🖊 Collaboration Tools 🖊</h1>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/Githun-181717?style=flat&logo=Github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 </div>
